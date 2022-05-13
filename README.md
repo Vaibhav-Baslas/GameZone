@@ -6,7 +6,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
-### `npm install`
+### `npm install` or `yarn add`
 Installs the dependencies needed for the app to run.
 
 ### `npm start`
